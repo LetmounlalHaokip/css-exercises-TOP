@@ -1,0 +1,14 @@
+.one {
+    background-color: hwb(0 0% 100%);
+    color: hwb(0 100% 0%);
+}
+
+.two {
+    background-color: hwb(60 0% 0%);
+}
+
+.one,
+.two {
+    font-size: 28px;
+    font-size: Helvetica, "Times New Roman", sans-serif;
+}
